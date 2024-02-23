@@ -39,3 +39,10 @@ h1{
     background-color: #fff;
     border: 1px solid rgb(236, 118, 34);
 }
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
